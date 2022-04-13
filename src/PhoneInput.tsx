@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React, { FC, useState, useEffect } from 'react'
 import { Keyboard, TextInput, TouchableOpacity, View } from 'react-native'
 import CountryFlag from './CountryFlag'
